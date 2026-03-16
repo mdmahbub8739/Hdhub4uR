@@ -1,7 +1,6 @@
 {
-  "name": "hdhub4u-api",
+  "name": "streaming-api",
   "version": "1.0.0",
-  "description": "A streaming API.",
   "main": "index.js",
   "engines": {
     "node": "18.x"
