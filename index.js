@@ -274,5 +274,5 @@ process.on('unhandledRejection', (reason) => console.error('🔥 Unhandled Rejec
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     // ✅ FIXED: Added backticks (`) for template literal
-    console.log(`🚀 Server is running on port ${PORT}`);
+    console.log(` Server is running on port ${PORT}`);
 });
